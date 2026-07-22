@@ -1,6 +1,6 @@
 # homebrew-specy
 
-Homebrew tap for [**specy**](https://gitlab.com/defsquare/specy) — an interactive
+Homebrew tap for [**specy-cli**](https://gitlab.com/defsquare/specy/cli) — an interactive
 editor for the `.spec` structure-declaration DSL, distributed as a self-contained
 macOS arm64 native binary (no JDK or Clojure required).
 
