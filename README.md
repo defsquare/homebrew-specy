@@ -11,6 +11,11 @@ brew tap defsquare/specy
 brew install specy
 ```
 
+> **Recent Homebrew — untrusted tap:** newer Homebrew refuses to load a formula
+> from a third-party tap until you trust it. If `brew install` errors with
+> *"Refusing to load formula … from untrusted tap"*, run `brew trust defsquare/specy`
+> once, then re-run `brew install specy`.
+
 Then open a spec in the editor:
 
 ```bash
